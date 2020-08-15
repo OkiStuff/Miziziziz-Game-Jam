@@ -24,6 +24,7 @@
         <e p="Assets.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Components" t="Include">
+          <e p="Floor.cs" t="Include" />
           <e p="Player.cs" t="Include" />
           <e p="Sprite.cs" t="Include" />
           <e p="Transform.cs" t="Include" />
@@ -44,6 +45,7 @@
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
         <e p="Systems" t="Include">
+          <e p="FloorSystem.cs" t="Include" />
           <e p="PlayerSystem.cs" t="Include" />
         </e>
       </e>

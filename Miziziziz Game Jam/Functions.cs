@@ -14,7 +14,7 @@ namespace Miziziziz_Game_Jam
                 sprite.SourceRect,
                 sprite.Color,
                 transform.Rotation,
-                Vector2.Zero,
+                new Vector2(sprite.Texture.Height * .5f, sprite.Texture.Width * .5f), 
                 transform.Scale,
                 SpriteEffects.None,
                 0f

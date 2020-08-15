@@ -14,7 +14,9 @@ namespace Miziziziz_Game_Jam.Systems
             Player = new Player();
             Player.Sprite.Texture = Assets.PlayerTexture;
             Player.Sprite.Color = Color.White;
-            
+            Globals.PlayerSprite = Player.Sprite;
+
+            Player.Transform.Position = Globals.ScreenMiddle;
             Player.Transform.Scale = new Vector2(4,4);
         }
 
