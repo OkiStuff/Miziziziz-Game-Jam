@@ -1,6 +1,7 @@
 ﻿using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
+using Miziziziz_Game_Jam.Systems;
 
 namespace Miziziziz_Game_Jam
 {
@@ -9,18 +10,18 @@ namespace Miziziziz_Game_Jam
     /// </summary>
     public class Game1 : Game
     {
-        GraphicsDeviceManager graphics;
-        SpriteBatch spriteBatch;
-        
         public Game1()
         {
-            graphics = new GraphicsDeviceManager(this);
+            Globals.Graphics = new GraphicsDeviceManager(this);
+            Globals.Content = Content;
             Content.RootDirectory = "Content";
+            
         }
         
         protected override void Initialize()
         {
-            // TODO: Add your initialization logic here
+            IsMouseVisible = true;
+            Window.AllowAltF4 = true;
 
             base.Initialize();
         }
@@ -29,9 +30,10 @@ namespace Miziziziz_Game_Jam
         protected override void LoadContent()
         {
             // Create a new SpriteBatch, which can be used to draw textures.
-            spriteBatch = new SpriteBatch(GraphicsDevice);
+            Globals.SpriteBatch = new SpriteBatch(GraphicsDevice);
 
-            // TODO: use this.Content to load your game content here
+            Assets.Load();
+            PlayerSystem.Load();
         }
         
         protected override void UnloadContent()
@@ -41,24 +43,22 @@ namespace Miziziziz_Game_Jam
 
         protected override void Update(GameTime gameTime)
         {
-            if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
-                Exit();
+            Input.UpdateState();
 
-            // TODO: Add your update logic here
+            PlayerSystem.Update();
 
             base.Update(gameTime);
         }
 
-        /// <summary>
-        /// This is called when the game should draw itself.
-        /// </summary>
-        /// <param name="gameTime">Provides a snapshot of timing values.</param>
+        
         protected override void Draw(GameTime gameTime)
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
-
-            // TODO: Add your drawing code here
-
+            
+            Globals.SpriteBatch.Begin(SpriteSortMode.Deferred, BlendState.AlphaBlend, SamplerState.PointClamp, DepthStencilState.Default, RasterizerState.CullNone);;
+            PlayerSystem.Draw();
+            Globals.SpriteBatch.End();
+            
             base.Draw(gameTime);
         }
     }

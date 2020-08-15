@@ -1,0 +1,31 @@
+C:\Users\coolg\RiderProjects\Miziziziz Game Jam\Miziziziz Game Jam\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll.config
+C:\Users\coolg\RiderProjects\Miziziziz Game Jam\Miziziziz Game Jam\bin\DesktopGL\AnyCPU\Debug\x86\SDL2.dll
+C:\Users\coolg\RiderProjects\Miziziziz Game Jam\Miziziziz Game Jam\bin\DesktopGL\AnyCPU\Debug\x64\SDL2.dll
+C:\Users\coolg\RiderProjects\Miziziziz Game Jam\Miziziziz Game Jam\bin\DesktopGL\AnyCPU\Debug\x86\soft_oal.dll
+C:\Users\coolg\RiderProjects\Miziziziz Game Jam\Miziziziz Game Jam\bin\DesktopGL\AnyCPU\Debug\x64\soft_oal.dll
+C:\Users\coolg\RiderProjects\Miziziziz Game Jam\Miziziziz Game Jam\bin\DesktopGL\AnyCPU\Debug\x86\libSDL2-2.0.so.0
+C:\Users\coolg\RiderProjects\Miziziziz Game Jam\Miziziziz Game Jam\bin\DesktopGL\AnyCPU\Debug\x64\libSDL2-2.0.so.0
+C:\Users\coolg\RiderProjects\Miziziziz Game Jam\Miziziziz Game Jam\bin\DesktopGL\AnyCPU\Debug\x86\libopenal.so.1
+C:\Users\coolg\RiderProjects\Miziziziz Game Jam\Miziziziz Game Jam\bin\DesktopGL\AnyCPU\Debug\x64\libopenal.so.1
+C:\Users\coolg\RiderProjects\Miziziziz Game Jam\Miziziziz Game Jam\bin\DesktopGL\AnyCPU\Debug\libSDL2-2.0.0.dylib
+C:\Users\coolg\RiderProjects\Miziziziz Game Jam\Miziziziz Game Jam\bin\DesktopGL\AnyCPU\Debug\libopenal.1.dylib
+C:\Users\coolg\RiderProjects\Miziziziz Game Jam\Miziziziz Game Jam\bin\DesktopGL\AnyCPU\Debug\Miziziziz Game Jam.exe
+C:\Users\coolg\RiderProjects\Miziziziz Game Jam\Miziziziz Game Jam\bin\DesktopGL\AnyCPU\Debug\Miziziziz Game Jam.pdb
+C:\Users\coolg\RiderProjects\Miziziziz Game Jam\Miziziziz Game Jam\bin\DesktopGL\AnyCPU\Debug\MonoGame.Framework.dll
+C:\Users\coolg\RiderProjects\Miziziziz Game Jam\Miziziziz Game Jam\obj\Debug\Miziziziz Game Jam.csprojAssemblyReference.cache
+C:\Users\coolg\RiderProjects\Miziziziz Game Jam\Miziziziz Game Jam\obj\Debug\Miziziziz Game Jam.csproj.CoreCompileInputs.cache
+C:\Users\coolg\RiderProjects\Miziziziz Game Jam\Miziziziz Game Jam\obj\Debug\Miziziziz Game Jam.csproj.CopyComplete
+C:\Users\coolg\RiderProjects\Miziziziz Game Jam\Miziziziz Game Jam\obj\Debug\Miziziziz Game Jam.exe
+C:\Users\coolg\RiderProjects\Miziziziz Game Jam\Miziziziz Game Jam\obj\Debug\Miziziziz Game Jam.pdb
+C:\Users\coolg\RiderProjects\Miziziziz Game Jam\Miziziziz Game Jam\bin\DesktopGL\AnyCPU\Debug\Content\Sprites\tile401.xnb
+C:\Users\coolg\RiderProjects\Miziziziz Game Jam\Miziziziz Game Jam\bin\DesktopGL\AnyCPU\Debug\Content\Sprites\tile402.xnb
+C:\Users\coolg\RiderProjects\Miziziziz Game Jam\Miziziziz Game Jam\bin\DesktopGL\AnyCPU\Debug\Content\Sprites\tile403.xnb
+C:\Users\coolg\RiderProjects\Miziziziz Game Jam\Miziziziz Game Jam\bin\DesktopGL\AnyCPU\Debug\Content\Sprites\tile404.xnb
+C:\Users\coolg\RiderProjects\Miziziziz Game Jam\Miziziziz Game Jam\bin\DesktopGL\AnyCPU\Debug\Content\Sprites\tile405.xnb
+C:\Users\coolg\RiderProjects\Miziziziz Game Jam\Miziziziz Game Jam\bin\DesktopGL\AnyCPU\Debug\Content\Sprites\tile406.xnb
+C:\Users\coolg\RiderProjects\Miziziziz Game Jam\Miziziziz Game Jam\bin\DesktopGL\AnyCPU\Debug\Content\Sprites\tile407.xnb
+C:\Users\coolg\RiderProjects\Miziziziz Game Jam\Miziziziz Game Jam\bin\DesktopGL\AnyCPU\Debug\Content\Sprites\tile987.xnb
+C:\Users\coolg\RiderProjects\Miziziziz Game Jam\Miziziziz Game Jam\bin\DesktopGL\AnyCPU\Debug\Content\Sprites\tile988.xnb
+C:\Users\coolg\RiderProjects\Miziziziz Game Jam\Miziziziz Game Jam\bin\DesktopGL\AnyCPU\Debug\Content\Sprites\tile989.xnb
+C:\Users\coolg\RiderProjects\Miziziziz Game Jam\Miziziziz Game Jam\bin\DesktopGL\AnyCPU\Debug\Content\Sprites\tile990.xnb
+C:\Users\coolg\RiderProjects\Miziziziz Game Jam\Miziziziz Game Jam\bin\DesktopGL\AnyCPU\Debug\Content\Sprites\tile991.xnb

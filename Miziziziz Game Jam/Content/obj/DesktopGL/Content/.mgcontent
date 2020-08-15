@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/coolg/RiderProjects/Miziziziz Game Jam/Miziziziz Game Jam/Content/Sprites/tile401.png</File>
+    <File>C:/Users/coolg/RiderProjects/Miziziziz Game Jam/Miziziziz Game Jam/Content/Sprites/tile402.png</File>
+    <File>C:/Users/coolg/RiderProjects/Miziziziz Game Jam/Miziziziz Game Jam/Content/Sprites/tile403.png</File>
+    <File>C:/Users/coolg/RiderProjects/Miziziziz Game Jam/Miziziziz Game Jam/Content/Sprites/tile404.png</File>
+    <File>C:/Users/coolg/RiderProjects/Miziziziz Game Jam/Miziziziz Game Jam/Content/Sprites/tile405.png</File>
+    <File>C:/Users/coolg/RiderProjects/Miziziziz Game Jam/Miziziziz Game Jam/Content/Sprites/tile406.png</File>
+    <File>C:/Users/coolg/RiderProjects/Miziziziz Game Jam/Miziziziz Game Jam/Content/Sprites/tile407.png</File>
+    <File>C:/Users/coolg/RiderProjects/Miziziziz Game Jam/Miziziziz Game Jam/Content/Sprites/tile987.png</File>
+    <File>C:/Users/coolg/RiderProjects/Miziziziz Game Jam/Miziziziz Game Jam/Content/Sprites/tile988.png</File>
+    <File>C:/Users/coolg/RiderProjects/Miziziziz Game Jam/Miziziziz Game Jam/Content/Sprites/tile989.png</File>
+    <File>C:/Users/coolg/RiderProjects/Miziziziz Game Jam/Miziziziz Game Jam/Content/Sprites/tile990.png</File>
+    <File>C:/Users/coolg/RiderProjects/Miziziziz Game Jam/Miziziziz Game Jam/Content/Sprites/tile991.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
